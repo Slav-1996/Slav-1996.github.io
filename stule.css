@@ -1,0 +1,3 @@
+.titl:has(~ .btn:hover) {
+    color: red;
+}
